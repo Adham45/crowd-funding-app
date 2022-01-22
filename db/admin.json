@@ -1,0 +1,5 @@
+[
+  {
+    "first_name": "Adham", "last_name": "Atef", "email": "adham.atef45@gmail.com", "password": "123456789", "phone": "01098815199", "is_staff": 1, "is_superuser": 0, "is_admin_user": 1
+  }
+]
